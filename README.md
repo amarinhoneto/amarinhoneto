@@ -1,4 +1,5 @@
-
+## Opá ! Seja bem vindo ✌
+##
 
 <div>
   <a href="https://github.com/amarinhoneto">
@@ -10,8 +11,9 @@
  ##
   
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-</div>
+  <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</div>   
   
  ## 
  <br>
